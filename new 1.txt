@@ -1,0 +1,31 @@
+           <html>
+                  <head>
+			<title> Taj Hotel </title>
+			     </head>
+			<body>
+			     <form>
+					<table >
+					
+					
+				     <tr>
+					 <td>Hotel or Destination :<input type="text" name="Hotel or Destination"></td>
+					 </tr>
+					 <tr>
+					 <td>Check in Date :<input type="text" name="Check in Date"></td>
+					 </tr>
+					 <tr>
+					 <td>Check out Date :<input type="text" name="Check out Date"></td>
+					 </tr>
+					 <tr>
+					 <td>Rooms :<input type="text" name="Rooms"></td>
+					 </tr>
+					 <tr>
+					 <td>Adults:<input type="text" name="Adults"></td>
+					 </tr>
+					 <tr>
+					 <td>Children :<input type="text" name="Children"></td>
+					 </tr>
+				 </form>	 
+			 </body>
+			 </html> 
+					
